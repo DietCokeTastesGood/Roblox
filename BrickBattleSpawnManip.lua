@@ -1,4 +1,4 @@
--- Optimized Doomspire Brickbattle Spawning System
+-- Optimized Doomspire Brickbattle Spawning System || https://www.roblox.com/games/10553011683/brickbattle-spawn-manipulation
 
 -- Priority :
 
